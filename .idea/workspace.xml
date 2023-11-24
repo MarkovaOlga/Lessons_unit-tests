@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="294ab824-25ec-49f1-8ad9-2db3dcebb7ee" name="Changes" comment="">
+    <list default="true" id="294ab824-25ec-49f1-8ad9-2db3dcebb7ee" name="Changes" comment="hometask4 added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seminar4/book/BookServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seminar4/book/BookServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminar5/number/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seminar5/selenium/SeleniumTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seminar5/selenium/SeleniumTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -39,10 +43,15 @@
     "onboarding.tips.debug.path": "C:/Users/User/Desktop/GB_architecrure/Lessons_unit-tests/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17958656",
-    "project.structure.side.proportion": "0.1150748"
+    "project.structure.side.proportion": "0.15375447"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.BookServiceTest.testFindAllBooks">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\GB_architecrure\Lessons_unit-tests\src\main\java\seminar5\number" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SeleniumTest3.testAuthorization">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <module name="Lessons_unit-tests" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -81,48 +90,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainHWTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SeleniumTest01.browserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lessons_unit-tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminar3.hw.*" />
+          <option name="PATTERN" value="seminar5.selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminar3.hw" />
-      <option name="MAIN_CLASS_NAME" value="seminar3.hw.MainHWTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainHWTest.numberIsInInterval" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lessons_unit-tests" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminar3.hw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seminar3.hw" />
-      <option name="MAIN_CLASS_NAME" value="seminar3.hw.MainHWTest" />
-      <option name="METHOD_NAME" value="numberIsInInterval(int)" />
+      <option name="PACKAGE_NAME" value="seminar5.selenium" />
+      <option name="MAIN_CLASS_NAME" value="seminar5.selenium.SeleniumTest01" />
+      <option name="METHOD_NAME" value="browserTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainHWTest.numberIsNotInInterval" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SeleniumTest2.browserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lessons_unit-tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminar3.hw.*" />
+          <option name="PATTERN" value="seminar5.selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminar3.hw" />
-      <option name="MAIN_CLASS_NAME" value="seminar3.hw.MainHWTest" />
-      <option name="METHOD_NAME" value="numberIsNotInInterval(int)" />
+      <option name="PACKAGE_NAME" value="seminar5.selenium" />
+      <option name="MAIN_CLASS_NAME" value="seminar5.selenium.SeleniumTest2" />
+      <option name="METHOD_NAME" value="browserTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest3.testAuthorization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lessons_unit-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar5.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seminar5.selenium" />
+      <option name="MAIN_CLASS_NAME" value="seminar5.selenium.SeleniumTest3" />
+      <option name="METHOD_NAME" value="testAuthorization" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,17 +142,17 @@
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="JUnit.BookServiceTest" />
       <item itemvalue="JUnit.BookServiceTest.testFindAllBooks" />
-      <item itemvalue="JUnit.MainHWTest" />
-      <item itemvalue="JUnit.MainHWTest.numberIsInInterval" />
-      <item itemvalue="JUnit.MainHWTest.numberIsNotInInterval" />
+      <item itemvalue="JUnit.SeleniumTest01.browserTest" />
+      <item itemvalue="JUnit.SeleniumTest2.browserTest" />
+      <item itemvalue="JUnit.SeleniumTest3.testAuthorization" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SeleniumTest3.testAuthorization" />
+        <item itemvalue="JUnit.SeleniumTest2.browserTest" />
+        <item itemvalue="JUnit.SeleniumTest01.browserTest" />
         <item itemvalue="JUnit.BookServiceTest.testFindAllBooks" />
         <item itemvalue="JUnit.BookServiceTest" />
-        <item itemvalue="JUnit.MainHWTest" />
-        <item itemvalue="JUnit.MainHWTest.numberIsNotInInterval" />
-        <item itemvalue="JUnit.MainHWTest.numberIsInInterval" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +165,19 @@
       <option name="presentableId" value="Default" />
       <updated>1699959634450</updated>
     </task>
+    <task id="LOCAL-00001" summary="hometask4 added">
+      <created>1700694021515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700694021515</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hometask4 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="hometask4 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
