@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="294ab824-25ec-49f1-8ad9-2db3dcebb7ee" name="Changes" comment="hometask4 added">
+    <list default="true" id="294ab824-25ec-49f1-8ad9-2db3dcebb7ee" name="Changes" comment="seminar5 added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminar5/number/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seminar5/selenium/SeleniumTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seminar5/selenium/SeleniumTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +16,28 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a98cf8ff-2f76-4b72-8b41-3d32955d871e" />
+        <option name="url" value="https://github.com/MarkovaOlga/Lessons_unit-tests.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2YADkNtEMTdIQk0RiCn6El0yOds" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,6 +54,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "last_opened_file_path": "C:/Users/User/Desktop/GB/selenium-java-4.15.0/lib/opentelemetry-semconv-1.28.0-alpha.jar",
     "onboarding.tips.debug.path": "C:/Users/User/Desktop/GB_architecrure/Lessons_unit-tests/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
@@ -50,8 +67,14 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\GB_architecrure\Lessons_unit-tests\src\main\java\seminar5\number" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="homework6" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.SeleniumTest3.testAuthorization">
+  <component name="RunManager" selected="JUnit.ComparisonOfListsTest02.testThanSizeIsDifferent">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <module name="Lessons_unit-tests" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -59,100 +82,98 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ComparisonOfListsTest02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lessons_unit-tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminar4.book.*" />
+          <option name="PATTERN" value="homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminar4.book" />
-      <option name="MAIN_CLASS_NAME" value="seminar4.book.BookServiceTest" />
+      <option name="PACKAGE_NAME" value="homework6" />
+      <option name="MAIN_CLASS_NAME" value="homework6.ComparisonOfListsTest02" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookServiceTest.testFindAllBooks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ComparisonOfListsTest02.testCompareLists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lessons_unit-tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminar4.book.*" />
+          <option name="PATTERN" value="homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminar4.book" />
-      <option name="MAIN_CLASS_NAME" value="seminar4.book.BookServiceTest" />
-      <option name="METHOD_NAME" value="testFindAllBooks" />
+      <option name="PACKAGE_NAME" value="homework6" />
+      <option name="MAIN_CLASS_NAME" value="homework6.ComparisonOfListsTest02" />
+      <option name="METHOD_NAME" value="testCompareLists" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumTest01.browserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ComparisonOfListsTest02.testThanSizeIsDifferent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lessons_unit-tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminar5.selenium.*" />
+          <option name="PATTERN" value="homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminar5.selenium" />
-      <option name="MAIN_CLASS_NAME" value="seminar5.selenium.SeleniumTest01" />
-      <option name="METHOD_NAME" value="browserTest" />
+      <option name="PACKAGE_NAME" value="homework6" />
+      <option name="MAIN_CLASS_NAME" value="homework6.ComparisonOfListsTest02" />
+      <option name="METHOD_NAME" value="testThanSizeIsDifferent" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumTest2.browserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConsoleViewTest.testRun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lessons_unit-tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminar5.selenium.*" />
+          <option name="PATTERN" value="homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminar5.selenium" />
-      <option name="MAIN_CLASS_NAME" value="seminar5.selenium.SeleniumTest2" />
-      <option name="METHOD_NAME" value="browserTest" />
+      <option name="PACKAGE_NAME" value="homework6" />
+      <option name="MAIN_CLASS_NAME" value="homework6.ConsoleViewTest" />
+      <option name="METHOD_NAME" value="testRun" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumTest3.testAuthorization" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="homework6 in Lessons_unit-tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lessons_unit-tests" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminar5.selenium.*" />
+          <option name="PATTERN" value="homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seminar5.selenium" />
-      <option name="MAIN_CLASS_NAME" value="seminar5.selenium.SeleniumTest3" />
-      <option name="METHOD_NAME" value="testAuthorization" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="homework6" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="JUnit.BookServiceTest" />
-      <item itemvalue="JUnit.BookServiceTest.testFindAllBooks" />
-      <item itemvalue="JUnit.SeleniumTest01.browserTest" />
-      <item itemvalue="JUnit.SeleniumTest2.browserTest" />
-      <item itemvalue="JUnit.SeleniumTest3.testAuthorization" />
+      <item itemvalue="JUnit.ComparisonOfListsTest02" />
+      <item itemvalue="JUnit.ComparisonOfListsTest02.testCompareLists" />
+      <item itemvalue="JUnit.ComparisonOfListsTest02.testThanSizeIsDifferent" />
+      <item itemvalue="JUnit.ConsoleViewTest.testRun" />
+      <item itemvalue="JUnit.homework6 in Lessons_unit-tests" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SeleniumTest3.testAuthorization" />
-        <item itemvalue="JUnit.SeleniumTest2.browserTest" />
-        <item itemvalue="JUnit.SeleniumTest01.browserTest" />
-        <item itemvalue="JUnit.BookServiceTest.testFindAllBooks" />
-        <item itemvalue="JUnit.BookServiceTest" />
+        <item itemvalue="JUnit.ComparisonOfListsTest02.testThanSizeIsDifferent" />
+        <item itemvalue="JUnit.ComparisonOfListsTest02" />
+        <item itemvalue="JUnit.homework6 in Lessons_unit-tests" />
+        <item itemvalue="JUnit.ConsoleViewTest.testRun" />
+        <item itemvalue="JUnit.ComparisonOfListsTest02.testCompareLists" />
       </list>
     </recent_temporary>
   </component>
@@ -172,12 +193,20 @@
       <option name="project" value="LOCAL" />
       <updated>1700694021515</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="seminar5 added">
+      <created>1700813736218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700813736218</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hometask4 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="hometask4 added" />
+    <MESSAGE value="seminar5 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="seminar5 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -187,6 +216,15 @@
           <line>15</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/seminar4/card/PaymentFormTest.java</url>
+          <line>20</line>
+          <properties class="seminar4.card.PaymentFormTest" method="testPaymentForm">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -194,11 +232,39 @@
     <SUITE FILE_PATH="coverage/Lessons_unit_tests$UserRepositoryTest.ic" NAME="UserRepositoryTest Coverage Results" MODIFIED="1700123889109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>seminar3.tdd.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Lessons_unit_tests$ComparisonOfListsTest.ic" NAME="ComparisonOfListsTest Coverage Results" MODIFIED="1701169438845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework6.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Lessons_unit_tests$SomeServiceTest.ic" NAME="SomeServiceTest Coverage Results" MODIFIED="1700077430048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>seminar3.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Lessons_unit_tests$MainHWTest.ic" NAME="MainHWTest Coverage Results" MODIFIED="1700470052191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>seminar3.hw.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lessons_unit_tests$TestListOfNumbers_testGenerateList.ic" NAME="TestListOfNumbers.testGenerateList Coverage Results" MODIFIED="1701105382829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testHomework6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lessons_unit_tests$AverageValueOfListTest.ic" NAME="AverageValueOfListTest Coverage Results" MODIFIED="1701106397226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lessons_unit_tests$homework6_in_Lessons_unit_tests__1_.ic" NAME="homework6 in Lessons_unit-tests (1) Coverage Results" MODIFIED="1701106422082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Lessons_unit_tests$homework6_in_Lessons_unit_tests.ic" NAME="homework6 in Lessons_unit-tests Coverage Results" MODIFIED="1701249162810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lessons_unit_tests$ComparisonOfListsTest02.ic" NAME="ComparisonOfListsTest02 Coverage Results" MODIFIED="1701170843521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lessons_unit_tests$IntegrationNumbersTest_testIntegrationNumbers.ic" NAME="IntegrationNumbersTest.testIntegrationNumbers Coverage Results" MODIFIED="1701105336179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>seminar5.number.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lessons_unit_tests$ListOfNumbersTest.ic" NAME="ListOfNumbersTest Coverage Results" MODIFIED="1701105833049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lessons_unit_tests$TestListOfNumbers.ic" NAME="TestListOfNumbers Coverage Results" MODIFIED="1701105509642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testHomework6.tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lessons_unit_tests$ConsoleViewTest_testRun.ic" NAME="ConsoleViewTest.testRun Coverage Results" MODIFIED="1701249056542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>homework6.*</FILTER>
     </SUITE>
   </component>
 </project>
